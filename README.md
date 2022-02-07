@@ -16,7 +16,7 @@ This app has the following functionalities:
 
 Here's a walkthrough of some features in this Android application:
 
-(Will be added with gifs.com afterwards)
+<img src='https://j.gifs.com/pZLWk1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
