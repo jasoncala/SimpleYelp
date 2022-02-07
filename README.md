@@ -1,10 +1,8 @@
 # Yelp Clone
 
-## *Your name here*
+## *Jason Cala*
 
 **Yelp clone** displays a list of search results from the Yelp API and displays the results in a scrollable list.
-
-Time spent: **X** hours spent in total
 
 ## Functionality
 
