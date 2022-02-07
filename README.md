@@ -8,9 +8,9 @@
 
 This app has the following functionalities:
 
-* [ ] Ability to query the Yelp API to get results from a search query
-* [ ] The search results are displayed in a RecyclerView
-* [ ] User sees a descriptive error message if internet is not available
+* [x] Ability to query the Yelp API to get results from a search query
+* [x] The search results are displayed in a RecyclerView
+* [x] User sees a descriptive error message if internet is not available
 
 ## Video Walkthrough
 
