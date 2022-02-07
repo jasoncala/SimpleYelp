@@ -20,7 +20,7 @@ Here's a walkthrough of some features in this Android application:
 
 ## Notes
 
-Learning focuses of this app was to obtain knowledge and practice dealing with network, APIs, retrofit and more Android basics like RecyclerView
+Learning focuses of this app was to obtain knowledge and practice dealing with network, APIs, retrofit and more Android basics like RecyclerView and async functions
 
 ## License
 
